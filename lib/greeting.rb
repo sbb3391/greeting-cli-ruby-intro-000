@@ -5,4 +5,4 @@ end
 
 name = "Bobby"
 
-greeting
+greeting(name)
